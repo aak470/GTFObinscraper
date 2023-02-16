@@ -1,6 +1,6 @@
 # GTFObinscraper
 
-This Python script scrapes the GTFObins website and searches for binaries that match a user-supplied string. Once a match is found, the script fetches the associated code snippet from the website and displays it on the command line.
+This Python script scrapes the GTFObins website and searches for SUDO binaries that match a user-supplied string. Once a match is found, the script fetches the associated code snippet from the website and displays it on the command line.
 Requirements
 
 Python 3.x
