@@ -11,7 +11,7 @@ Usage
 
 bash:
 
-    ./program.py string_to_match
+    ./gtfobinscraper.py string_to_match
 
 string_to_match should be a string that you want to search for within the GTFObins binaries.
 
@@ -19,7 +19,7 @@ For example, to search for binaries that match the string "sudo", you would run:
 
 bash"
 
-    ./program.py sudo
+    ./gtfobinscraper.py sudo
 
 Output
 
